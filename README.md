@@ -1,33 +1,33 @@
 # Event:Workshop:How to migrate PHP website to Azure App Services
-# topic - 基於Azure PaaS的網站服務詳解
+# topic - 基于Azure PaaS的网站服务详解
 # agenda && Content
-## Day 1 : 網站PaaS服務介紹
+## Day 1 : 网站PaaS服务介绍
 ### 前言
- - Azure overview
- - IaaS,PaaS,SaaS
-### Azure App Service詳解
- - 設置
-  - 應用程序設置,備份,自定義域,SSL設置,擴展及擴大,WebJob
- - 應用服務計畫(AppServicePlan)
-  - 應用服務計畫,配額,更改應用服務計畫
- - 開發工具
-  - 克隆應用,控制台,高級工具(Kodu),應用服務編輯器,擴展(Extensions)
- - 監視與診斷
-  - 警報(Alert),診斷日誌與日誌流(Log)
+- Azure overview
+- IaaS,PaaS,SaaS
+### Azure App Service详解
+- 设置
+ - 应用程序设置,备份,自定义域,SSL设置,扩展及扩大,WebJob
+- 应用服务计画(AppServicePlan)
+ - 应用服务计画,配额,更改应用服务计画
+- 开发工具
+ - 克隆应用,控制台,高级工具(Kodu),应用服务编辑器,扩展(Extensions)
+- 监视与诊断
+ - 警报(Alert),诊断日志与日志流(Log)
 ### Azure SQL Database
- - PaaS MSSQL
- - PaaS mySQL
-### 關於雲端PaaS的服務架構
- - Storage
- - Redis
- - Application Gateway
- - Azure load balancer
-## Day2:網站部署
+- PaaS MSSQL
+- PaaS mySQL
+### 关于云端PaaS的服务架构
+- Storage
+- Redis
+- Application Gateway
+- Azure load balancer
+## Day2:网站部署
 ### 地端部署
- - 如何使用phpStorm部署到AppService
- - 地端部署(如何使用發行設定檔部署到AppService)
+- 如何使用phpStorm部署到AppService
+- 地端部署(如何使用发行设定档部署到AppService)
 ### VSTS部署
- - 使用VSTS Repo
- - Git(Version Control)教學
- - CI(持續集成)
- - CD(持續發布)
+- 使用VSTS Repo
+- Git(Version Control)教学
+- CI(持续集成)
+- CD(持续发布)
