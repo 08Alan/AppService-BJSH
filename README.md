@@ -22,10 +22,10 @@
 - Redis
 - Application Gateway
 - Azure load balancer
-## Day2:网站部署
+## Day2:PHP网站部署方式
 ### 地端部署
-- 如何使用phpStorm部署到AppService
-- 地端部署(如何使用发行设定档部署到AppService)
+- 使用phpStorm部署到AppService
+- 使用发行设定档部署到AppService
 ### VSTS部署
 - 使用VSTS Repo
 - Git(Version Control)
