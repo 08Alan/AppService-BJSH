@@ -1,6 +1,6 @@
-# Event:Workshop:How to migrate PHP website to Azure App Services
-# topic - 基于Azure PaaS的网站服务详解
-# agenda && Content
+# Event:How to migrate PHP website to Azure App Services
+# Topic - 基于Azure PaaS的网站服务详解-以PHP为例
+# Agenda && Content
 ## Day 1 : 网站PaaS服务介绍
 ### 前言
 - Azure overview
@@ -28,6 +28,6 @@
 - 地端部署(如何使用发行设定档部署到AppService)
 ### VSTS部署
 - 使用VSTS Repo
-- Git(Version Control)教学
+- Git(Version Control)
 - CI(持续集成)
 - CD(持续发布)
